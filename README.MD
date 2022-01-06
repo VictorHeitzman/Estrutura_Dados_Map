@@ -1,0 +1,1 @@
+Projeto criado para capturar conteudo através de um arquivo .txt e ao final mostrar contagem de quantos votos cada vereador teve
